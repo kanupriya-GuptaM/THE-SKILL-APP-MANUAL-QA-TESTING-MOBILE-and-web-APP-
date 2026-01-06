@@ -1,0 +1,37 @@
+# Test Scenarios – The Skill App (Mobile)
+
+## TS01 – App Installation
+Verify app installs successfully from the app store.
+
+## TS02 – App Launch
+Verify app launches without crashing.
+
+## TS03 – User Registration
+Verify user can register with valid details.
+
+## TS04 – Login Functionality
+Verify registered user can log in successfully.
+
+## TS05 – Appointment Creation
+Verify user can create a new appointment.
+
+## TS06 – Appointment Editing
+Verify existing appointment can be edited.
+
+## TS07 – Appointment Deletion
+Verify user can delete an appointment.
+
+## TS08 – Call Management
+Verify user can log, view, or manage calls.
+
+## TS09 – Notifications & Reminders
+Verify reminders are triggered for scheduled appointments.
+
+## TS10 – Navigation
+Verify navigation between screens works smoothly.
+
+## TS11 – Form Validation
+Verify validation messages for mandatory fields.
+
+## TS12 – Error Handling
+Verify proper error messages for invalid actions.
