@@ -1,0 +1,92 @@
+# Test Cases – The Skill App (Mobile)
+
+---
+
+## TC01 – App Installation
+- **Steps:**
+  1. Download the app from App Store / Play Store
+  2. Install the app
+- **Expected Result:** App installs successfully without errors.
+- **Status:** Pass
+
+---
+
+## TC02 – App Launch
+- **Steps:**
+  1. Tap on app icon
+- **Expected Result:** App launches and displays home screen.
+- **Status:** Pass
+
+---
+
+## TC03 – User Registration
+- **Steps:**
+  1. Open Sign Up screen
+  2. Enter valid user details
+  3. Submit the form
+- **Expected Result:** User account created successfully.
+- **Status:** Pass
+
+---
+
+## TC04 – Login with Valid Credentials
+- **Steps:**
+  1. Enter valid email and password
+  2. Tap Login
+- **Expected Result:** User logs in successfully.
+- **Status:** Pass
+
+---
+
+## TC05 – Create Appointment
+- **Steps:**
+  1. Navigate to Appointments section
+  2. Tap “Add Appointment”
+  3. Enter required details
+  4. Save
+- **Expected Result:** Appointment is created and visible in list.
+- **Status:** Pass
+
+---
+
+## TC06 – Edit Appointment
+- **Steps:**
+  1. Open existing appointment
+  2. Edit appointment details
+  3. Save changes
+- **Expected Result:** Appointment details updated successfully.
+- **Status:** Pass
+
+---
+
+## TC07 – Delete Appointment
+- **Steps:**
+  1. Select an appointment
+  2. Tap Delete
+  3. Confirm deletion
+- **Expected Result:** Appointment removed from list.
+- **Status:** Pass
+
+---
+
+## TC08 – Call Management
+- **Steps:**
+  1. Navigate to Calls section
+- **Expected Result:** Call logs/details are displayed correctly.
+- **Status:** Observation Logged
+
+---
+
+## TC09 – Notification Reminder
+- **Steps:**
+  1. Create an appointment with reminder enabled
+- **Expected Result:** Notification is triggered at scheduled time.
+- **Status:** Pass
+
+---
+
+## TC10 – Mandatory Field Validation
+- **Steps:**
+  1. Try saving appointment without required fields
+- **Expected Result:** Validation message displayed.
+- **Status:** Pass
