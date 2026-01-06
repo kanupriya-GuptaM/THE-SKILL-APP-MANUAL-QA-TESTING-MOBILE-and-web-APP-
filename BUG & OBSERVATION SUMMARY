@@ -1,0 +1,20 @@
+# Bug & Observation Summary – The Skill App
+
+## Issue 01 – UI Alignment Issue
+- **Type:** UI Bug
+- **Description:** Minor alignment issue observed on appointment listing screen.
+- **Severity:** Low
+
+---
+
+## Issue 02 – Validation Message Improvement
+- **Type:** Enhancement Suggestion
+- **Description:** Validation messages could be more descriptive for better user clarity.
+- **Severity:** Medium
+
+---
+
+## Issue 03 – Navigation Delay
+- **Type:** Usability Issue
+- **Description:** Slight delay observed when switching between appointment and call screens.
+- **Severity:** Low
