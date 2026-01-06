@@ -1,0 +1,74 @@
+# Test Plan – The Skill App (Mobile Application)
+
+## Project Information
+- **Project Name:** The Skill App
+- **Application Type:** Mobile Application (iOS / Android)
+- **Domain:** Appointment, Call & Client Management
+- **Testing Type:** Manual Testing
+- **Tester:** Kanupriya Gupta Mujawdiya
+- **Application URL:** https://theskillapp.com/
+
+---
+
+## Objective
+The objective of this testing is to ensure that The Skill App allows users to manage appointments, calls, and client interactions smoothly, with accurate scheduling, notifications, and reliable mobile usability.
+
+---
+
+## Scope of Testing
+
+### In Scope
+- Mobile UI & usability testing
+- Functional testing
+- Appointment scheduling
+- Call management features
+- Notifications & reminders
+- Navigation & screen transitions
+- Error handling and validations
+
+### Out of Scope
+- Automation testing
+- Performance and load testing
+- Security testing
+- Backend/API testing
+
+---
+
+## Test Approach
+- Manual testing on mobile devices
+- Scenario-based testing
+- Exploratory testing simulating real user behavior,Download the app in my phone and tested all available features
+
+---
+
+## Test Deliverables
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Bug & Observation Summary
+- GitHub README documentation
+
+---
+
+## Entry Criteria
+- App installed successfully
+- Test build accessible
+- User account available (if required)
+
+---
+
+## Exit Criteria
+- All planned test cases executed
+- All critical and major defects reported
+
+---
+
+## Tools Used
+- Mobile Device (Android / iOS)
+- Bug tracking via spreadsheet or direct reporting
+
+---
+
+## Sign-off
+- **Tester:** Kanupriya Gupta
+- **Role:** Manual QA Tester
